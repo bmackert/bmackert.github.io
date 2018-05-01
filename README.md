@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/bmackert/Bob1.io/edit/mast
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<a.traget= "_blank: href= "https://user-images.githubusercontent.com/38883634/39476052-456420a2-4d20-11e8-8dbb-fb33627cb688.png">
+<a traget= "_blank" href= "https://user-images.githubusercontent.com/38883634/39476052-456420a2-4d20-11e8-8dbb-fb33627cb688.png">
 
 ### Markdown
 
