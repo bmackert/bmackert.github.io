@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+﻿## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bmackert/Bob1.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -8,6 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <img width="350" alt= "camaro" src="https://user-images.githubusercontent.com/38883634/39476052-456420a2-4d20-11e8-8dbb-fb33627cb688.png"/></a>
 
 ### Markdown
+
+#Hello world
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -22,7 +24,8 @@ Syntax highlighted code block
 - List
 
 1. Numbered
-2. List
+1. List
+1. Hello
 
 **Bold** and _Italic_ and `Code` text
 
